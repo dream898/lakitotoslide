@@ -1,0 +1,54 @@
+
+.header {
+
+	height: 76px;
+}
+
+.header-cover {
+    background-position: 0px 4px;
+}
+
+.login-panel {
+    margin: 13px 0;
+}
+
+
+.msg-wrapper {
+    
+    margin-top: 9em;
+}
+
+
+.btn-slider-wrap {
+	display: none;
+}
+
+
+
+#promotion { -webkit-animation: change-color1 0.2s ease 0s infinite normal ;
+    animation: change-color1 0.2s ease 0s infinite normal ; }
+@-webkit-keyframes change-color1 {
+ 0%{
+	color:white;
+ }
+50%{
+	color:yellow;
+ }
+
+ 100%{
+	color:#01cc01;
+ }
+}
+
+@keyframes change-color1 {
+ 0%{
+	color:white;
+ }
+ 50%{
+	color:yellow;
+ }
+
+ 100%{
+	color:#01cc01;
+ }
+} 
