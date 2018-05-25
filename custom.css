@@ -1,0 +1,24 @@
+$( document ).ready(function() {
+
+var oldbca = 'assets/img/bca.png';
+var newbca = 'http://nadabet.com/stylealfa/img/blank.png';
+var oldbca = 'assets/img/bca.png';
+var newbca = 'http://nadabet.com/stylealfa/img/blank.png';
+var oldmandiri = 'assets/img/mandiri.png';
+var newmandiri = 'http://nadabet.com/stylealfa/img/blank.png';
+var oldbri = 'assets/img/bri.png';
+var newbri = 'http://nadabet.com/stylealfa/img/blank.png';
+var oldbni = 'assets/img/bni.png';
+var newbni = 'http://nadabet.com/stylealfa/img/blank.png';
+var olddanamon = 'assets/img/danamon.png';
+var newdanamon = 'http://nadabet.com/stylealfa/img/blank.png';
+
+$('img[src="' + oldbca + '"]').attr('src', newbca);
+$('img[src="' + oldbca + '"]').attr('src', newbca);
+$('img[src="' + oldmandiri + '"]').attr('src', newmandiri);
+$('img[src="' + oldbri + '"]').attr('src', newbri);
+$('img[src="' + oldbni + '"]').attr('src', newbni);
+$('img[src="' + olddanamon + '"]').attr('src', newdanamon);
+
+  
+});
