@@ -1,0 +1,106 @@
+
+.col-xs-left {
+    margin: 0px !important;
+    width: 685px !important;
+}
+
+.slide-wrapper .owl-carousel .item img {
+	
+	width: 1030px !important;
+
+}
+
+.header {
+
+	height: 80px !important;
+}
+
+.header-cover {
+    background-position: 0px 6px !important;
+}
+
+.login-panel {
+    margin: 17px 0 !important;
+}
+
+
+.msg-wrapper {
+    
+    margin-top: 9.50em !important;
+}
+
+div.content-body img {
+    border: 1px groove #e0dfe0 !important;
+}
+
+.btn-slider-wrap {
+	display: none;
+}
+
+.topmenu ul {
+	
+	background: #ae743b !important;
+}
+
+.nav li .current {
+	background-color: #ffa800 !important;
+	background-image: -webkit-linear-gradient(top, #ffa800 0%,#ecae14 100%) !important;
+}
+
+
+.btn-primary {
+    
+    background: #ffa800 !important;
+	background-image: -webkit-linear-gradient(top, #ffa800 0%,#ecae15 100%) !important;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+	background: #ffa800 !important;
+	background-image: -webkit-linear-gradient(top, #ecae15 0%,#ffa800 100%) !important;
+	
+}
+
+.rollto a {
+	display: none;
+}
+
+
+.footer .statement-text span {
+    display: none;
+    
+}
+
+.g_left { display: none !important; }
+
+.g_right { display: none !important; }
+
+.navbar .nav > li > a { font-weight: 100 !important; }
+
+
+#promotion { -webkit-animation: change-color1 0.2s ease 0s infinite normal ;
+    animation: change-color1 0.2s ease 0s infinite normal ; }
+@-webkit-keyframes change-color1 {
+ 0%{
+	color:white;
+ }
+50%{
+	color:yellow;
+ }
+
+ 100%{
+	color:#01cc01;
+ }
+}
+
+@keyframes change-color1 {
+ 0%{
+	color:white;
+ }
+ 50%{
+	color:yellow;
+ }
+
+ 100%{
+	color:#01cc01;
+ }
+} 
